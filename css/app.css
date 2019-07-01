@@ -181,7 +181,6 @@ table.float-center {
 
 body,
 table.body,
-h2,
 h3,
 p,
 td,
@@ -196,7 +195,6 @@ a {
   text-align: left;
   line-height: 1.4; }
 
-h2,
 h3 {
   color: inherit;
   word-wrap: normal;
@@ -204,9 +202,6 @@ h3 {
   font-weight: normal;
   margin-bottom: 10px;
   Margin-bottom: 10px; }
-
-h2 {
-  font-size: 30px; }
 
 h3 {
   font-size: 28px; }
@@ -380,11 +375,6 @@ table.button table td {
 .no-bottom-padding {
   padding-bottom: 0 !important; }
 
-h2 {
-  font-size: 24px;
-  line-height: 28px;
-  color: #005587; }
-
 h3 {
   font-size: 16px;
   font-weight: bold; }
@@ -403,17 +393,6 @@ sup {
 
 .three-col-logo {
   width: 130px; }
-
-.shoutout {
-  background: #612d8a; }
-
-.shoutout h2 {
-  text-align: center;
-  color: #ffffff; }
-
-.shoutout p {
-  color: #ffffff !important;
-  margin: 16px; }
 
 h3.product-description {
   margin-bottom: 0; }
